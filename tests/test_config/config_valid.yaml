@@ -1,0 +1,7 @@
+---
+web_scraper:
+  url: https://www.mockwebsite.com
+  output_path: /Users/databug/grimoire/this-viz-will-kill-you/tests/test_output
+spotify:
+  show_uri: spotify:show:mock_uri
+  output_path: /Users/databug/grimoire/this-viz-will-kill-you/tests/test_output

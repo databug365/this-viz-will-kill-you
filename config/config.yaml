@@ -1,0 +1,7 @@
+---
+web_scraper:
+  url: https://thispodcastwillkillyou.com/transcripts/
+  output_path: /Users/databug/grimoire/this-viz-will-kill-you/data/raw/transcripts
+spotify:
+  show_uri: spotify:show:7cujpkzRygYyLylnv5SVFu
+  output_path: /Users/databug/grimoire/this-viz-will-kill-you/data/publish/tpwky_data.csv
